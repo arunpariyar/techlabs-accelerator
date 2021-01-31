@@ -1,0 +1,12 @@
+.footer {
+  width: 100%;
+  padding: 2rem 0rem;
+
+  background-color: var(--primary);
+  &__content {
+    text-align: center;
+    &--title {
+      color: #fff;
+    }
+  }
+}
