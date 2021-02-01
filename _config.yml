@@ -1,7 +1,4 @@
-plugins:
-  - jekyll-remote-theme
-
-remote_theme: http[s]://github.com/arunpariyar/techlabs-accelerator
+theme: techlabs-accelerator
 
 defaults:
   - scope:
@@ -18,4 +15,3 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-
