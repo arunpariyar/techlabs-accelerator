@@ -66,14 +66,12 @@ img {
 }
 
 pre {
-  background-color: var(--primary);
-  padding: 1rem;
-  border-radius: 1.5rem;
 }
 
 code {
   font-family: var(--text-code);
-  color: var(--white);
+  color: black;
+  font-size: 1.45rem;
 }
 
 blockquote {

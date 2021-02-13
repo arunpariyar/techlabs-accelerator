@@ -21,9 +21,7 @@ h1:after { background: none repeat scroll 0 0 var(--primary); bottom: -5px; righ
 
 img { max-width: 100%; }
 
-pre { background-color: var(--primary); padding: 1rem; border-radius: 1.5rem; }
-
-code { font-family: var(--text-code); color: var(--white); }
+code { font-family: var(--text-code); color: black; font-size: 1.45rem; }
 
 blockquote { color: #7d7d7d; font-style: italic; border-left: 2px solid var(--primary); padding-left: 2rem; }
 
